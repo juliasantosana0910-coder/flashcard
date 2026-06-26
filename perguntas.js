@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matemática',
+    'Qual é a fórmula da área de um triângulo?',
+    '$A = \frac{b \cdot h}{2}$ (base vezes altura dividido por dois)'
+)
+
+criaCartao(
+    'Biologia',
+    'Qual é a função das mitocôndrias na célula??',
+    'Produção de energia (respiração celular).'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual é a camada mais interna da Terra?',
+    'O núcleo'
 )
 
 criaCartao(
@@ -22,3 +22,14 @@ criaCartao(
     'Oi em ingles é HI (RAI)'
 )
 
+criaCartao(
+    'Português',
+    'O que é uma metáfora?',
+    'Uma comparação implícita, sem o uso da palavra "como"'
+)
+criaCartao(
+    'Física',
+    'O que diz a Primeira Lei de Newton?',
+
+    'Lei da Inércia: um corpo em repouso tende a permanecer em repouso a menos que uma força atue sobre ele'
+)
